@@ -1,0 +1,20 @@
+main {
+  margin: 0 120px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer {
+  height: 240px;
+  background-color: #161616;
+  padding: 24px 120px;
+  color: #fdfdfd;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  line-height: 32px;
+}
